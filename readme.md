@@ -1,3 +1,4 @@
-Name: Leonardo Richie\n
-Class: L4AC
-NIM: 2502005856
+Name: Leonardo Richie <br />
+Class: L4AC <br />
+NIM: 2502005856 <br />
+ 
